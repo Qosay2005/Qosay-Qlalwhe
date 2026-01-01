@@ -38,7 +38,7 @@ Currently, I am focusing on strengthening my abilities in algorithms, data struc
 
 ## 📂 Featured Projects
 
-### 🔹 Edu Press Website
+### 🔹 edu-press
 A responsive web application for educational content and resources.  
 - Built using HTML, CSS and Bootstrap  
 - Focused on clean UI and user-friendly navigation  
@@ -49,7 +49,7 @@ A responsive web application for educational content and resources.
 
 ---
 
-### 🔹 Osaka Website
+### 🔹 osaka-website
 A multi-page website project with interactive elements.  
 - Built using HTML, CSS, and Bootstrap  
 - Features smooth transitions and responsive design  
@@ -59,7 +59,7 @@ A multi-page website project with interactive elements.
 
 ---
 
-### 🔹 Hecto Website
+### 🔹 hecto-website
 A modern website project showcasing dynamic content and responsive layout.  
 - Built with HTML, CSS and Bootstrap  
 - Includes interactive sections and professional UI design  
@@ -68,7 +68,7 @@ A modern website project showcasing dynamic content and responsive layout.
 
 ---
 
-### 🔹 Convert Words to Emoji (C++)
+### 🔹 convert-words-to-emoji
 A C++ console application that converts words into emojis.  
 - Implements string processing and mapping logic  
 - Focused on practicing algorithms and problem solving  
