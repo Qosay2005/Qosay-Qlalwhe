@@ -44,7 +44,7 @@ A responsive web application for educational content and resources.
 - Focused on clean UI and user-friendly navigation  
 - Ideal for students and teachers to access learning materials  
 
-🔗 [View Repository](https://github.com/Qosay2005/edu-press)
+🔗 [View Repository](https://github.com/Qosay2005/Edu_Press_Web_Site.git)
 
 
 ---
@@ -55,7 +55,7 @@ A multi-page website project with interactive elements.
 - Features smooth transitions and responsive design  
 - Demonstrates practical front-end development skills  
 
-🔗 [https://github.com/Qosay2005/osaka.git](#)
+🔗 [View Repository](https://github.com/Qosay2005/osaka.git)
 
 ---
 
@@ -64,7 +64,7 @@ A modern website project showcasing dynamic content and responsive layout.
 - Built with HTML, CSS and Bootstrap  
 - Includes interactive sections and professional UI design  
 
-🔗 [https://github.com/Qosay2005/Hecto.git](#)
+🔗 [View Repository](https://github.com/Qosay2005/Hecto.git)
 
 ---
 
@@ -74,12 +74,11 @@ A C++ console application that converts words into emojis.
 - Focused on practicing algorithms and problem solving  
 - Fun and interactive mini-project  
 
-🔗 [https://github.com/Qosay2005/My-Projects-in-c-.git](#)
+🔗 [View Repository](https://github.com/Qosay2005/My-Projects-in-c-.git)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qosay2005&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qosay2005&show_icons=true&hide_title=true&theme=radical)
 
 ---
 
