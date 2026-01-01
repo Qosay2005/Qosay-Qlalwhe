@@ -44,7 +44,8 @@ A responsive web application for educational content and resources.
 - Focused on clean UI and user-friendly navigation  
 - Ideal for students and teachers to access learning materials  
 
-🔗 [https://github.com/Qosay2005/Edu_Press_Web_Site.git](#)
+🔗 [View Repository](https://github.com/Qosay2005/edu-press)
+
 
 ---
 
